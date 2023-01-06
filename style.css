@@ -124,11 +124,43 @@
 }
 .start-my-plan-section h1{
     text-align: center;
-    font-size: 50px;
+    align-items: center;
+    font-size: 40px;
     color: rgb(36, 35, 35);
+    
 }
 .my-plan{
     display: flex;
-    padding-left: 280px;
+    padding-left: 200px;
     margin-top: 80px;
+}
+
+.my-plan-first h2{
+    color:rgb(36, 35, 35) ;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.my-plan-first h3{
+    color: rgb(112, 110, 110) ;
+}
+.my-plan-second{
+    margin-left: 80px;
+}
+.my-plan-second h2{
+    color:rgb(36, 35, 35) ;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.my-plan-second h3{
+    color: rgb(112, 110, 110) ;
+}
+/* ....................................Awlays-keep-section */
+.Awlays-keep{
+    
+    
+    /* height: 300px;
+    width: 1000px; 
+    margin-left: 175px;
+    margin-top: 100px;
+    margin-bottom: 100px; */
 }
