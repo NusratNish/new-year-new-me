@@ -5,6 +5,7 @@
 }
 .backround-section {
     background-image: url(./images/banner/banner1.png);
+    background-repeat: no-repeat;
     height: 800px;
     width: 100%;
     
@@ -87,7 +88,7 @@
 }
 .My-failures-discrption {
     margin-top: 280px;
-    margin-left: 20px;
+    margin-left: 60px;
    
 }
 .My-failures-discrption h1 {
@@ -127,6 +128,7 @@
     align-items: center;
     font-size: 40px;
     color: rgb(36, 35, 35);
+    margin-left: 20px;
     
 }
 .my-plan{
